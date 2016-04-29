@@ -1,6 +1,6 @@
 html,body{
 	font-family: Arial, Helvetica, sans-serif;
-	font-family: 'Slabo 27px', serif;
+	font-family: 'Nunito', serif;
 	height:100%;
 	
 	/*background: -moz-linear-gradient(top,  #000000 10%, #04111f 50%);
@@ -8,9 +8,9 @@ html,body{
 	background: linear-gradient(to bottom,  #000000 10%,#04111f 50%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#04111f',GradientType=0 );
 	*/
-	color:#0b0600;
-	background: rgb(255,255,240);
-	background: #eee;
+	color:#296ca3;
+	background: #75aedd;
+	background: #eef;
 }
 
 a{
@@ -185,7 +185,8 @@ a{
 }
 
 #header{
-	background: hsl(30, 75%, 15%);
+	background: #296ca3;
+	background: #75aedd;
     box-shadow: 0px 3px 35px rgba(11, 6, 0, 0.6);
 	position: relative;
     height: 75px;
@@ -204,14 +205,16 @@ a{
 }
 
 #header .logo img{
-	width: 100px;
-    margin-top: 0px;
+	width: 135px;
+    margin-top: -30px;
 }
 
 .store{
-	text-align:right;
-	box-shadow: 0px 5px 25px rgba(11, 6, 0, 0.75);
-	margin-bottom:1em;
+	text-align: right;
+    box-shadow: 0px 5px 25px rgba(0, 0, 50, 0.75);
+    margin-bottom: 1em;
+    background: #75aedd;
+	background: #accdf1;
 }
 
 .store ul{
@@ -237,14 +240,14 @@ a{
 .infobox p{
 	margin:1.5em 1em 1em 1.5em;
 	font-size:1.25em;
-	color:rgba(11, 6, 0, 0.75);
+	/*color:rgba(11, 6, 0, 0.75);*/
 	text-align:justify;
 	letter-spacing: 0.1em;
 }
 
 .infobox p strong{
 	font-size:1.5em;
-	color:rgb(11, 6, 0);
+	/*color:rgb(11, 6, 0);*/
 	letter-spacing: 0.1rem;
 }
 
@@ -336,21 +339,13 @@ a{
 }
 
 #footer{
-	position: absolute;
-    bottom: 0px;
-    left: 0px;
-    width: 100%;
-    height: 0px;
-    overflow: hidden;
-}
-
-#footer{
   position: fixed;
   float:right;
   width: 100%;
-  height:50px;
+  height:70px;
   right: 0px;
   bottom: 0px;
+  background: transparent url('../img/border_bottom.png') top left repeat-x;
 }
 
 #footer .policy{

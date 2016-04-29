@@ -51,7 +51,7 @@
 		<!-- CSS -->
 		<link rel="stylesheet" type="text/css" media="all" href="css/responsiveboilerplate.css">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-		<link href='https://fonts.googleapis.com/css?family=Slabo+27px' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Nunito:400,700,300|Fredoka+One' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" type="text/css" media="all" href="css/style.css">
 		<link rel="stylesheet" type="text/css" media="all" href="css/animation.css">
 		
@@ -118,13 +118,13 @@
 	</div>
 	<div class="content" style="">
 		<div id="" class="infobox col4">
-			<p><strong>The Prize Inside</strong> is all about kids meal prizes. See what prizes are available and find the closest restaurant. Use the app to turn your prize into artwork! Share it in the gallery and on social networks. Choose your fast food by The Prize Inside.</p>
+			<p><strong>Aeromorphic</strong> ....</p>
 		</div>
 		<div class="col4 store">
 			<ul>
-				<li><a href="https://play.google.com/store/apps/details?id=com.greenzeta.theprizeinside" target="_blank"><img src="img/playstore.png" style="height:40px;"/></a></li>
-	    		<li><a href="http://www.amazon.com/GreenZeta-The-Prize-Inside/dp/B00M2AM85Q" target="_blank"><img src="img/amazonstore.png" style="height:40px;"/></a></li>
-	   			<li><a href="https://itunes.apple.com/us/app/the-prize-inside/id650582612?ls=1&mt=8" target="_blank"><img src="img/appstore.png" style="height:40px;"/></a></li>
+				<li><a href="" target="_blank"><img src="img/playstore.png" style="height:40px;"/></a></li>
+	    		<li><a href="" target="_blank"><img src="img/amazonstore.png" style="height:40px;"/></a></li>
+	   			<li><a href="" target="_blank"><img src="img/appstore.png" style="height:40px;"/></a></li>
 			</ul>
 		</div>
 		<div class="col4">
@@ -175,7 +175,7 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-76054-17', 'auto');
+  ga('create', 'UA-76054-34', 'auto');
   ga('send', 'pageview');
 
 </script>
