@@ -116,7 +116,7 @@
 			<a href="/"><img src="img/logo.png"/></a>
 		</div>
 	</div>
-	<div class="content" style="">
+	<div class="content row1" style="">
 		<div id="" class="infobox col4">
 			<p><strong>Aeromorphic</strong> ....</p>
 		</div>
